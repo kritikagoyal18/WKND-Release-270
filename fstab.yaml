@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p29659-e1780519.adobeaemcloud.com/bin/franklin.delivery/kritikagoyal18/WKND-Release-270/main"
+    type: "markup"
+    suffix: ".html"
