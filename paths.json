@@ -1,19 +1,19 @@
 {
   "mappings": [
-    "/content/wknd-release-270/language-masters/en:/",
-    "/content/wknd-release-270/language-masters/en/:/en/",
-    "/content/wknd-release-270/language-masters/fr/:/fr/",
-    "/content/wknd-release-270/language-masters/fr:/fr",
-    "/content/wknd-release-270/language-masters/es/:/es/",
-    "/content/wknd-release-270/language-masters/es:/es",
-    "/content/wknd-release-270/configuration:/.helix/config.json",
-    "/content/wknd-release-270/metadata:/metadata.json",
-    "/content/wknd-release-270/redirects:/redirects.json",
-    "/content/wknd-release-270/placeholders:/placeholders.json",
-    "/content/wknd-release-270.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/WKND-Release-270/language-masters/en:/",
+    "/content/WKND-Release-270/language-masters/en/:/en/",
+    "/content/WKND-Release-270/language-masters/fr/:/fr/",
+    "/content/WKND-Release-270/language-masters/fr:/fr",
+    "/content/WKND-Release-270/language-masters/es/:/es/",
+    "/content/WKND-Release-270/language-masters/es:/es",
+    "/content/WKND-Release-270/configuration:/.helix/config.json",
+    "/content/WKND-Release-270/metadata:/metadata.json",
+    "/content/WKND-Release-270/redirects:/redirects.json",
+    "/content/WKND-Release-270/placeholders:/placeholders.json",
+    "/content/WKND-Release-270.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wknd-release-270/",
-    "/content/dam/wknd-release-270/"
+    "/content/WKND-Release-270/",
+    "/content/dam/WKND-Release-270/"
   ]
 }
